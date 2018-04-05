@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TrumpBetting.iml" filepath="$PROJECT_DIR$/TrumpBetting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.components/components.iml" filepath="$PROJECT_DIR$/lib.components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.pay/lib.pay.iml" filepath="$PROJECT_DIR$/lib.pay/lib.pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.twitterfetcher/lib.twitterfetcher.iml" filepath="$PROJECT_DIR$/lib.twitterfetcher/lib.twitterfetcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.usercenter/lib.usercenter.iml" filepath="$PROJECT_DIR$/lib.usercenter/lib.usercenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.pay/pay.iml" filepath="$PROJECT_DIR$/lib.pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resources/resources.iml" filepath="$PROJECT_DIR$/resources/resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.twitterfetcher/twitterfetcher.iml" filepath="$PROJECT_DIR$/lib.twitterfetcher/twitterfetcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
